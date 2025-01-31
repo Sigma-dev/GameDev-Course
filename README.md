@@ -1,4 +1,4 @@
-# My first Platformer in Bevy
+# My first Platformer in Unity
 
 ## 0. Before the course
 
