@@ -99,7 +99,7 @@ If we want to move our character, we will need to access it's velocity, which is
 
 To access the component, we can use Unity's `GetComponent<INSERT_COMPONENT_TYPE>()` method that will return the component.
 
-We can then call `addForce(force)` to apply a force to the rigidbody (ex: `.addForce(new Vector3(0, 100, 0))`) to add a large force to the Y axis.
+We can then call `AddForce(force)` to apply a force to the rigidbody (ex: `.AddForce(new Vector3(0, 100, 0))`) to add a large force to the Y axis.
 
 Another option is to directly set the velocity by accessing the `velocity` field. [Rigidbody 2D Documentation](https://docs.unity3d.com/ScriptReference/Rigidbody2D.html)
 
