@@ -111,9 +111,10 @@ You should be able to combine this new knowledge to get the player to jump when 
 Now that you have a working player character, you can make anything !
 
 Here are some ideas:
-- Double Jump
-- Enemies
+- Spikes
 - Coins
 - Make a level with a start and end
+- Enemies
+- Powerups
 
 ![Next](images/next.png "Next")
